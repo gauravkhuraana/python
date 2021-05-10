@@ -1,0 +1,4 @@
+SAMPLE.TXT
+Hello World!
+I am a sample file.
+ok ji Hello and goodbye!

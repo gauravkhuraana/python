@@ -1,0 +1,27 @@
+Interface and abstract class are ways to achieve Abstraction in Java.
+
+We can create an interface using “interface” keyword.
+We can have abstract , default and static methods in an interface. From Java 8 , an interface can have concrete methods as well.
+We can not instantiate an interface.
+We can not create a constructor in an interface.
+Data members in an Interface is public, static and final by default.
+Abstract methods are public by default. A method without body will be abstract and public by default.
+Multiple inheritance can be achieved using interface.
+An interface can extend one or multiple interfaces.
+An interface neither extend nor implement a class.
+An interface can not have static or non-static blocks.
+An interface without its implemented class is incomplete.
+
+
+Different implementations were called but have similar type of interface reference
+
+I1 ref1 = Class1.method1();
+I1 ref2 = Class1.method2()
+
+Return type may be an Interface type implementation class keeps the key.
+
+obj.m1().m2().m3() <-- Method Chaining
+
+
+DU2
+BDD framework like Cucumber with Rest Assured

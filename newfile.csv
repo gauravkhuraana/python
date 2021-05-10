@@ -1,0 +1,30 @@
+name,type of diet,flavour,course,state,region,cookingtime,preparation time
+jalebi,vegetarian,sweet,desert,uttar pradesh,north,20,40
+kaju katli,vegetarian,sweet,desert,uttar pradesh,north,15,50
+kheer,vegetarian,sweet,desert,west bengal,east,23,50
+laddu,vegetarian,sweet,desert,punjab,north,20,67
+lassi,vegetarian,sweet,desert,punjab,north,15,48
+pongal,vegetarian,sweet,desert,kerela,south,15,69
+basundi,vegetarian,sweet,desert,maharashtra,west,24,34
+chicken tikka,non-vegetarian,savoury,main course,maharashtra,west,40,34
+chicken cuury,non-vegetarian,savoury,main course,maharashtra,west,50,56
+aloo methi,vegetarian,savoury,main course,delhi,north,50,50
+biryani,non-vegetarian,savoury,main course,uttarpradesh,north,20,47
+chapati,vegetarian,savoury,main course,haryana,north,20,47
+poha,vegetarian,savoury,snack,gujrata,north,23,24
+kachori,vegetarian,savoury,snack,gujrata,north,45,10
+pasta,vegetarian,savoury,snack,maharashtra,west,56,20
+noodles,vegetarian,savoury,snack,maharashtra,west,55,30
+pizza,vegetarian,savoury,snack,maharashtra,west,55,40
+burger,vegetarian,savoury,snack,maharashtra,west,34,50
+french fries,vegetarian,savoury,snack,maharashtra,west,10,60
+bhindi masala,vegetarian,savoury,main course,punjab,north,40,12
+butter chicken,non-vegetarian,savoury,main course,punjab,north,20,15
+daal,vegetarian,savoury,main course,punjab,north,60,25
+puri,vegetarian,savoury,main course,punjab,north,51,45
+chole,vegetarian,savoury,main course,punjab,north,32,65
+shahi paneer,vegetarian,savoury,main course,punjab,north,51,34
+mojito,vegetarian,sweet,drink,maharashtra,west,10,12
+ice-cream,vegetarian,sweet,desert,maharashtra,west,60,16
+cold drink,vegetarian,sweet,drink,delhi,north,10,16
+shake,vegetarian,sweet,drink,delhi,north,20,20

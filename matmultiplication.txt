@@ -1,0 +1,13 @@
+A = ([1,2,3],
+     [4,5,6],
+     [5,6,7])
+ 
+final_mat=[]
+ 
+for i in range(len(A)):
+    lst=[]
+    for j in range(len(A[0])):
+        lst.append(A[i][j])
+    final_mat.append(lst)
+ 
+print(final_mat)

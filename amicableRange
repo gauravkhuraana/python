@@ -1,0 +1,25 @@
+def sumPdivisors(num):
+  tmp = []
+  for var in range(1,num):
+    if num % var == 0:
+      tmp.append(var)
+  sum=0
+  for ele in tmp:
+    sum += ele
+  #print(" Amicable output = ",sum)
+  return sum
+
+def func(start,end):
+ for var in range(start,end):
+  r1=sumPdivisors(var)
+  if(var!=r1):
+   r2=sumPdivisors(r1)
+   if(var==r2):
+    #print(var,r1,r2,start,end)
+    print(" Amicable numbers are ",var," " , r1)
+
+func(1,10000)
+  
+
+
+
