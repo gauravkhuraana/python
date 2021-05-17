@@ -10,8 +10,10 @@ class student:
         print (" I am class function")
 
     def paramFunc(self,name,age):
-        print("Name is ",name)
-        print("Age is",age)
+        print(" Name is ",name)
+        # To call a funcion within same class 
+        self.func()
+        print(" Age is",age)
 
 
 objStudent = student("HariBol",4000)
